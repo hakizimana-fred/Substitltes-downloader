@@ -1,5 +1,6 @@
 {
   "name": "srt-downloader",
+  "proxy":"https://api.opensubtitles.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
